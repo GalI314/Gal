@@ -9,11 +9,11 @@
 - _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
 - _Izreži_ označeno v odložišče: Ctrl+X
 - _Prilepi_ vsebino odložišča: Ctrl+V
-- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
-- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
-- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
-- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
-- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
+- _VSCode paleta ukazov_: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- _Skok na začetek_ vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- _Premik za eno besedo_ naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- _Brisanje_ vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- _Pretvorba_ označenega besedila _v velike črke_: ukaz _Transform to Uppercase_ v paleti ukazov
 
 <!-- 2. nivojski razdelek -->
 ## Koda
