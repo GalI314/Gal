@@ -7,7 +7,7 @@
 *.log
 *.nav
 *.out
-*.pdf
+*.pdf !slika.pdf
 *.pyc
 *.snm
 *.synctex.gz
